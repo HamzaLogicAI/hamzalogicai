@@ -1,7 +1,7 @@
 ## Hey there! I'm [Hamza Kaleem](https://hamzalogicai.netlify.app/) 👋
 
 ### 💡 What I'm all about
-I'm a Machine Learning and Data Science Intern, specializing in training and fine-tuning ML algorithms to optimize your data's potential. These models give you the ease of making their decisions on their own, saving you time and money. With a keen eye for data analytics and visualization, I excel at extracting actionable insights from complex datasets. My approach ensures that the models I develop are highly functional, visually appealing, user-friendly, and easy to implement.
+I'm a Data Scientist and a Machine Learning Engineer, specializing in training and fine-tuning ML algorithms to optimize your data's potential. These models give you the ease of making their decisions on their own, saving you time and money. With a keen eye for data analytics and visualization, I excel at extracting actionable insights from complex datasets. My approach ensures that my models are highly functional, visually appealing, user-friendly, and easy to implement.
 
 With a growth mindset, I'm a strong advocate of self-education. I'm always trying to learn more about what interests me most.
 
