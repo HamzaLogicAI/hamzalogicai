@@ -1,7 +1,7 @@
 ## Hey there! I'm [Hamza Kaleem](https://hamzalogicai.netlify.app/) 👋
 
 ### 💡 What I'm all about
-I'm a Data Scientist and a Machine Learning Engineer, specializing in training and fine-tuning ML algorithms to optimize your data's potential. These models give you the ease of making decisions independently, saving you time and money. My expertise enables LLMs to interact with external systems in real-time, thus improving automated decision-making and task execution. With a strong foundation in machine learning, deep learning, and natural language processing (NLP), I focus on building intelligent, scalable solutions.
+I'm a Machine Learning Engineer, specializing in training and fine-tuning ML algorithms to optimize your data's potential. These models give you the ease of making decisions independently, saving you time and money. My expertise enables LLMs to interact with external systems in real-time, thus improving automated decision-making and task execution. With a strong foundation in machine learning, deep learning, and natural language processing (NLP), I focus on building intelligent, scalable solutions.
 
 I leverage Python programming, cloud computing, and software engineering best practices to deploy robust AI models. Committed to ethical and efficient AI development, I integrate data science and big data skills to ensure performance-driven outcomes.
 With a growth mindset, I'm a strong advocate of self-education. I'm always trying to learn more about what interests me most.
