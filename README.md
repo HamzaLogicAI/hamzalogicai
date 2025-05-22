@@ -12,7 +12,7 @@ With a growth mindset, I'm a strong advocate of self-education. I'm always tryin
 ### 🛠️ My toolbox
 ```Python
 const mySkills = {
-  languages: ['Python', 'C++', 'SQL', 'HTML', 'CSS'],
+  Languages: ['Python', 'C++', 'SQL', 'HTML', 'CSS'],
   frameworks: ['TensorFlow', 'PyTorch', 'Scikit-learn', 'Hugging Face Transformers'],
   tools: ['Jupyter Notebook', 'Google Colab', 'GitHub', 'VS Code', 'Spyder'],
   cloud: ['AWS', 'Google Cloud', 'Azure'],
